@@ -38,6 +38,15 @@
  - GPT Search Page
  - GPT Search Bar
  - (BONUS) Multi-Language Feature in our App
+ - GPT Search Open AI Api Key
+ - GPT Search API Call
+ - Fetched gptMovieSuggestions from TMDB 
+ - Created gptSlice added date
+ - Reused MovieList Component to make movie suggestion conatiner
+ - Memoization
+ - Adding .env file
+ - Adding .env file to gitignore
+ - Made our site Responsive
 
 
  # Features
